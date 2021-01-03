@@ -12,3 +12,35 @@ _Contents:_
 * Use formal "vous" (not informal "tu").
 * For example, <q>You may use this video if you include a link to this page.</q> ([in context](https://www.w3.org/WAI/videos/standards-and-benefits/#permission))<br>-> <q>Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page.</q>
 * Background: [GitHub issue: "you" translate formal](https://github.com/w3c/wai-website/issues/123)
+
+## Mobile applicability
+* Translation: Règles pour les appareils mobiles
+
+## Web
+* With a capital letter
+
+## Préenregistré
+* "Préenregistré" is more common than composed word with the hyphen
+
+## Audiodescription
+* Audiodescription in one word
+
+## ATAG
+* Translation: Les règles d’accessibilité pour les outils d’édition
+* Use plural: les ATAG
+
+## UAAG
+* Translation: Les règles pour l’accessibilité des agents utilisateurs
+* Use plural: les UAAG
+
+## WAI ARIA
+* Translation: Applications internet riches accessibles
+
+## Web Accessibility Initiative
+* Translation: Initiative pour l’accessibilité du Web
+
+## Lexicologie
+* Link to an authorized translation in French of WCAG 2.0. Useful to stay coherent in your translation: https://www.w3.org/Translations/WCAG20-fr/
+
+## Internet
+* Use a capital letter, without determiner
